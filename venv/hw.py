@@ -1,1 +1,22 @@
-print("hello world")
+from math import *
+a = 10
+b = 5
+c = 2
+
+print(a/b)
+print(a//b)
+print(a+c)
+print(a**b)
+print(pow(b,c))
+print(sqrt(9))
+print(pi)
+
+
+
+
+
+
+
+
+
+
